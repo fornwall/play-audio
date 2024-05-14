@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <unistd.h>
 #include <SLES/OpenSLES.h>
 #include <SLES/OpenSLES_Android.h>
